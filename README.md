@@ -1,6 +1,6 @@
 # vue-tuts
 
-This template should help get you started developing with Vue 3 in Vite.
+This is vue js tutorial project result from [this](https://www.youtube.com/watch?v=pgWZLS75Nmo) video
 
 ## Recommended IDE Setup
 
